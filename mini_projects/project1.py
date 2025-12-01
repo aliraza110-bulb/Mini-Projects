@@ -60,7 +60,6 @@ def main():
             search_by_category()
           else:
               print("Invalid Input")
-              break
 
 
 main()
